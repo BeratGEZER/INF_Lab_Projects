@@ -18,3 +18,15 @@ This project includes problems related to dictionaries and file operations.
 
 Lab 6: Object-Oriented Programming
 This project involves solving problems using object-oriented programming concepts, including classes and methods.
+
+all of task file is here : 
+[INF211_lab1.pdf](https://github.com/user-attachments/files/16041199/INF211_lab1.pdf)
+[INF211_lab0.pdf](https://github.com/user-attachments/files/16041198/INF211_lab0.pdf)
+[INF211_lab5.pdf](https://github.com/user-attachments/files/16041197/INF211_lab5.pdf)
+[INF211_lab4.pdf](https://github.com/user-attachments/files/16041196/INF211_lab4.pdf)
+[INF211_lab3.pdf](https://github.com/user-attachments/files/16041195/INF211_lab3.pdf)
+[INF211_lab2.pdf](https://github.com/user-attachments/files/16041194/INF211_lab2.pdf)
+[INF211_lab6 (1).pdf](https://github.com/user-attachments/files/16041200/INF211_lab6.1.pdf)
+[movies (1).txt](https://github.com/user-attachments/files/16041210/movies.1.txt)
+[transcript1.txt](https://github.com/user-attachments/files/16041208/transcript1.txt)
+[transcript2.txt](https://github.com/user-attachments/files/16041209/transcript2.txt)
